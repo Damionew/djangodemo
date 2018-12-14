@@ -4,3 +4,4 @@
 2.在view.py中定义方法index，相当于Spring中Controller内的public String index(){}的类名
 3.在urls.py中定义url(r'^index/', index)，相当于Spring中@RequestMapping("/index")的请求名
 url(正则表达式,view.py中的方法)
+111
