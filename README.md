@@ -12,3 +12,7 @@ Python - Web 框架
 3.在urls.py中定义url(r'^index/', index)，相当于Spring中@RequestMapping("/index")的请求名
 
 url(正则表达式,view.py中的方法)
+
+Django运行方式：
+cmd到项目路径下python manage.py runserver 0.0.0.0:8000
+或在Pycharm中的terminal中执行
